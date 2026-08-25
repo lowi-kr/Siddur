@@ -39,4 +39,4 @@ You don't need to know what this is or how it works — just put it on your phon
 
 ## Credit
 
-<p align="center"><a href="https://www.ivelt.com/forum/memberlist.php?mode=viewprofile&u=30033">@שוואכע מעשיות</a> — ivelt</p>
+<p align="center"><a href="https://www.ivelt.com/forum/viewtopic.php?p=6886500#p6886500">@שוואכע מעשיות</a> — ivelt</p>
